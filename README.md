@@ -37,11 +37,6 @@ Multi-role REST API with 4-layer Clean Architecture, JWT auth, and an appointmen
 ### 🤖 [LLM RLHF Evaluation Pipeline](https://github.com/meJoydev/LLM-RLHF-Evaluation-Pipeline)
 A learning project exploring core RLHF concepts — pairwise ranking, reward scoring, and dataset curation — inspired by how labs like Anthropic and OpenAI structure human-feedback pipelines for LLM alignment.
 
-## 📊 GitHub Stats
-
-![Joydev's GitHub stats](https://github-readme-stats.vercel.app/api?username=meJoydev&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meJoydev&layout=compact)
-
 ## 🧩 Coding Profiles
 
 - **LeetCode:** [leetcode.com/meJoydev](https://leetcode.com/meJoydev) — active DSA problem solver (arrays, strings, dynamic programming)
