@@ -39,8 +39,8 @@ A learning project exploring core RLHF concepts — pairwise ranking, reward sco
 
 ## 🧩 Coding Profiles
 
-- **LeetCode:** [leetcode.com/meJoydev](https://leetcode.com/u/__me__joy/) — active DSA problem solver (arrays, strings, dynamic programming)
-- **Coding Ninjas:** [codingninjas.com/Joydev](https://www.naukri.com/code360/profile/Joydev) — completed DSA tracks
+- **LeetCode:** [leetcode.com/u/__me__joy](https://leetcode.com/u/__me__joy/) — active DSA problem solver (arrays, strings, dynamic programming)
+- **Coding Ninjas:** [www.naukri.com/code360/profile/Joydev](https://www.naukri.com/code360/profile/Joydev) — completed DSA tracks
 
 ## 📫 Reach Me
 
