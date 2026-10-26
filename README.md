@@ -8,7 +8,7 @@
 
 ## 💼 Background
 
-Most recently worked as an **Associate Software Engineer Intern** at **Bitlyze Technologies** (Dec 2025 – June 2026), building a multi-module Conference Portal in ASP.NET Core MVC with RBAC across Admin, Faculty, and Student roles, plus an automated attendance-tracking module.
+Most recently worked as an **Associate Software Engineer Intern** at **Bitlyze Technologies** (Feb 2026 – Aug 2026), built a multi-module Conference Portal in ASP.NET Core MVC with RBAC across Admin, Faculty, and Student roles, plus an automated attendance-tracking module.
 
 Currently sharpening my skills and building projects while looking for my next role.
 
