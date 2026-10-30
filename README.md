@@ -46,4 +46,4 @@ A learning project exploring core RLHF concepts — pairwise ranking, reward sco
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mejoydevchand/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joy682dev@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DlDYnRlsvDF7B2DK9mWTtt6K7CLYHM-J/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1bjAjyyuv7Koa82LUHtrm3Ik77x4WvrW4/view?usp=drive_link)
